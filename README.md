@@ -26,5 +26,6 @@ Além de agrupar e comunicar informações importantes como:
 
 # Modelagem 
 > *Em construção, ao longo da construção da aplicação será adicionada novas entidades/models!*
+>![entidades_event](https://user-images.githubusercontent.com/96500247/197800577-f4ff4d3a-ba65-41fb-9976-02c3f96a67e2.png)
 
-![entidades_event](https://user-images.githubusercontent.com/96500247/197800577-f4ff4d3a-ba65-41fb-9976-02c3f96a67e2.png)
+
