@@ -13,7 +13,7 @@ Aplicativo para cadastro de novos *eventos* :
 
  
  # **Funcionalidades**
-Na aplicação Event será possivel:
+Na aplicação Event será possivel além de cadastrar o evento em si:
 * Cadastrar 📝
 * Editar 🖌
 * Excluir ❌ pessoas dentro de cada evento criado.
