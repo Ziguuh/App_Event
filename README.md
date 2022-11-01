@@ -1,5 +1,4 @@
-
-# Event:
+# Event: <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 > ###### Etapa 1:
 ### Aplicação Event será feita para  para organizadores de eventos gerenciar seus eventos e manter seus participantes atualizados com as informações de seus eventos!
 Aplicativo para cadastro de novos *eventos* :
