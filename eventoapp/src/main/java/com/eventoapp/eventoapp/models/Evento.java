@@ -1,10 +1,15 @@
-package models;
+package com.eventoapp.eventoapp.models;
 
+import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
-
+@Entity
+@Table(name = "Evento")
 public class Evento implements Serializable{
 
+	private static final long serialVersionUID=1l;
+    @Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private long codigo;
 	private String nome;
 	private String local;

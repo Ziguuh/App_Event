@@ -1,4 +1,4 @@
-package models;
+package com.eventoapp.eventoapp.models;
 
 import java.io.Serializable;
 import java.util.Collection;
